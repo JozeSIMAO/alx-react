@@ -14,3 +14,4 @@ $('button').click(_.debounce(() => {
   updateCounter();
   $('#count').text(`${count} clicks on the button`);
 }));
+
