@@ -14,3 +14,4 @@ it('renders the <p>', () => {
     wrapper.containsMatchingElement(<p>Here is the list of notifications</p>)
   ).toBeTruthy();
 });
+
