@@ -12,9 +12,8 @@ In this repository, you will find examples of how to use inline styling in diffe
 
 To get started with using inline styling in your React application, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
-2. Install the required dependencies: `npm install`
-3. Start the development server: `npm start`
+1. Install dependencies: `npm install`
+2. Start the development server: `npm start`
 
 ## Usage
 
